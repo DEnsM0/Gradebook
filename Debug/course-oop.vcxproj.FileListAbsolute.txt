@@ -1,0 +1,2 @@
+D:\LearnC++\nure\course-oop\Debug\course-oop.exe
+E:\LearnC++\nure\course-oop\Debug\course-oop.exe
