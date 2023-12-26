@@ -81,4 +81,4 @@ This project was developed during the summer semester of 2022.
 
 Happy coding!
 
-[UML_view]:https://imgur.com/a/gRF43ns
+[UML_view]:https://i.imgur.com/JlhPGHT.png
