@@ -66,7 +66,7 @@ To start the project, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
     ```bash
-    git clone https://github.com/your-username/gradebook-project.git
+    git clone https://github.com
     ```
 
     Replace `your-username` with your GitHub username.
