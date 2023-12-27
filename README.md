@@ -69,8 +69,6 @@ To start the project, follow these steps:
     git clone https://github.com/DEnsM0/Gradebook
     ```
 
-    Replace `your-username` with your GitHub username.
-
 2. Navigate to the project directory.
 
 3. Explore the source code, documentation, and UML diagram to understand the project structure.
